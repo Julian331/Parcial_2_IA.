@@ -1,9 +1,5 @@
 # Parcial 2 — Inteligencia Artificial
 
-Universidad Sergio Arboleda · Docente: Joaquín Fernando Sánchez Cifuentes
-
-Integrantes: Gabriela Delgado Tibamoso, Julian Camilo Caro Herrera, Nicolás Steven Pérez Chuscano
-
 ## Contenido
 
 | Archivo | Descripción |
